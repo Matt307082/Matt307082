@@ -102,9 +102,3 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt307082&theme=dark&hide_border=false&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Matt307082&theme=radical&no-frame=true&no-bg=true&margin-w=4)
