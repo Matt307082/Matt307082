@@ -1,9 +1,10 @@
 # 💫 About Me
 
-🎓 Student at ESIEE Paris  
-☁️ Cloud & Platform Engineering Enthusiast  
+💼 Freelance Engineer
+🎓 Graduate of ESIEE Paris  
 💻 Contributor to abcdesktop.io (Cloud Native Desktop-as-a-Service)  
-🍊 Apprentice at Orange  
+🍊 3-year apprenticeship at Orange  
+☁️ Cloud & Platform Engineering Enthusiast  
 🚀 Passionate about Infrastructure, Kubernetes, Virtualization & Secure Architectures  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-beghelli/)
