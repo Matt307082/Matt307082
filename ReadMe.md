@@ -1,6 +1,6 @@
 # 💫 About Me
 
-💼 Freelance Engineer
+💼 Freelance Engineer  
 🎓 Graduate of ESIEE Paris  
 💻 Contributor to abcdesktop.io (Cloud Native Desktop-as-a-Service)  
 🍊 3-year apprenticeship at Orange  
